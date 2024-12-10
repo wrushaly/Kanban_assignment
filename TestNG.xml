@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="kanban_assignment_mtg Suite">
+  <test name="LoginPage Test">
+    <classes>
+      <class name="Pages.LoginPageTest"/>
+    </classes>
+  </test>
+</suite>
